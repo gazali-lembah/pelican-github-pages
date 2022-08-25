@@ -7,3 +7,6 @@
 [submodule "pelican-themes"]
 	path = pelican-themes
 	url = https://github.com/getpelican/pelican-themes.git
+[submodule "themes/Flex"]
+	path = themes/Flex
+	url = https://github.com/alexandrevicenzi/Flex.git

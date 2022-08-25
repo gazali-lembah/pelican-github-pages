@@ -22,8 +22,10 @@ LINKS = (('Pelican', 'https://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('twitter', '#'),
+          ('linkedin', 'http://www.linkedin.com/in/danieldebie'),
+          ('github', 'http://github.com/DandyDev'),
+          ('stackoverflow', '#', 'stack-overflow'),)
 
 DEFAULT_PAGINATION = 10
 
@@ -31,12 +33,14 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 THEME = "pelican-themes/pelican-bootstrap3"
-# THEME = "pelican-themes/bootlex"
+# THEME = "themes/Flex"
 
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
 }
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['i18n_subsites']
+I18N_TEMPLATES_LANG = 'en'
 
 DELETE_OUTPUT_DIRECTORY = False
+USE_PAGER = True
