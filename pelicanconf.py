@@ -33,7 +33,7 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 THEME = "pelican-themes/pelican-bootstrap3"
-# THEME = "themes/Flex"
+
 
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],

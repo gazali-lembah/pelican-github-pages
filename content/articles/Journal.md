@@ -4,4 +4,5 @@ Category: Local Journal
 
 
 This is a sample of my Journal bro.
-another content will go here.
+Another content will go here.
+Are you ready???
