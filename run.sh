@@ -5,6 +5,11 @@
 # git commit -m "inital commit"
 # git push origin main
 
+# cd ..
+# git add .
+# git commit -m "First commit."
+# git push -u origin master
+
 #!/bin/bash
 lastcommit=`git log origin/main -1 --oneline`
 make publish
