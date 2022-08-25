@@ -4,3 +4,4 @@ Category: Local Journal
 
 
 This is a sample of my Journal bro.
+another content will go here.
