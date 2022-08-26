@@ -1,0 +1,6 @@
+Title: The 7th IIEEJ International Conference on Image Electronics and Visual Computing (IEVC) 2021
+Date: 2021-12-10
+Category: Prosiding
+
+
+CLASSIFICATION OF CULTURAL HERITAGES IN THE MUSEUM COLLECTION ON CENTRAL SULAWESI, INDONESIA USING DEEP LEARNING

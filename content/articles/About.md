@@ -1,6 +1,6 @@
 Title: Kesibukan Saya: 
 Date: 2022-08-25
-Category: About
+Category: About Me
 
 
 Dosen S1 Program Studi Bahasa dan Indonesia, Universitas Tadulako.<br>
